@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace ProyectoBibliotecaHD.Datos.modelo
+namespace ProyectoBibliotecaAA.Datos.modelo
 {
     public class Estudiante
     {
