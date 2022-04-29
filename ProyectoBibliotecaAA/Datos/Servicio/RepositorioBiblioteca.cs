@@ -1,5 +1,5 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using ProyectoBibliotecaHD.Datos.modelo;
+using ProyectoBibliotecaAA.Datos.modelo;
 
 namespace ProyectoBibliotecaHD.Datos.Servicio
 {
